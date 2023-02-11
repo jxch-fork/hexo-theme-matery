@@ -761,3 +761,6 @@ math:
   mathjax:
     enable: true
     tags: ams
+
+translate:
+  enable: true
