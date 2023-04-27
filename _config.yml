@@ -258,7 +258,7 @@ snowdown:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: https://picx1.zhimg.com/v2-1c7a9fe09be0d2b77d1b8716393693aa_xl.jpg?source=32738c0c
-  career: Software Engineer
+  career: Trader | Software Engineer
   introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
 
 # config my projects informations in about page.
